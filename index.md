@@ -6,7 +6,7 @@ description: A new AI paradigm
 
 ## A new AI paradigm
 
-A new paradigm for AI that is explainable by design, efficiently scalable on existing GPUs as well as any other classical or quantum hardware.
+Explainable by design, efficiently scalable on any classical or quantum hardware.
 
 Relational intelligence (RI) proceeds in three steps:
 
