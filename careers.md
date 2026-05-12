@@ -6,4 +6,4 @@ permalink: /careers
 
 ## Careers
 
-Interested in category theory, quantum foundations and their application to artificial intelligence, write at [careers@rel-int.ai](mailto://careers@rel-int.ai)
+Interested in applied category theory, compositional quantum software and explainable artificial intelligence, write at [careers@rel-int.ai](mailto://careers@rel-int.ai)
