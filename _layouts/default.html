@@ -11,8 +11,9 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 2rem 1.5rem;
-      color: #24292e;
       line-height: 1.6;
+      background-color: rgb(240, 240, 240);
+      color: #24292e;
     }
     header {
       margin-bottom: 2rem;
@@ -29,14 +30,28 @@
     header a h1 {
       text-decoration: underline;
     }
+
+    /* Dark mode */
+    .logo-dark  { display: none; }
+    .logo-light { display: block; }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #1a1a1a;
+        color: #e0e0e0;
+      }
+      a { color: #58a6ff; }
+      header a { color: #e0e0e0; }
+      .logo-light { display: none; }
+      .logo-dark  { display: block; }
+    }
   </style>
 </head>
 <body>
   <header>
     <a href="{{ "/" | relative_url }}">
-      {% if site.logo %}
-        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo">
-      {% endif %}
+      <img class="logo-light" src="{{ "/logo-white.png" | relative_url }}" alt="{{ site.title }} logo">
+      <img class="logo-dark"  src="{{ "/logo-black.png" | relative_url }}" alt="{{ site.title }} logo">
       <h1>{{ site.title }}</h1>
     </a>
   </header>
