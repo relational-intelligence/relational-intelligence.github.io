@@ -1,20 +1,26 @@
 ---
 layout: default
 title: Relational Intelligence
-description: A new AI paradigm
+description: Making qubits and neurons speak
 ---
 
-## A new AI paradigm
+# Making qubits and neurons speak
 
-Explainable by design, efficiently scalable on any classical or quantum hardware.
+## What?
 
-Relational intelligence (RI) proceeds in three steps:
+Relational Intelligence builds compositional AI that is explainable by design, scalable on any classical or quantum hardware:
 
-1. we parse high-level reasoning tasks as relational string diagrams,
-2. we compile them onto low-level circuits of parallel processing units,
-3. we generate a structured answer with its high-level explanation.
+1. we **parse** high-level reasoning tasks as relational string diagrams,
+2. we **compile** them onto low-level circuits of parallel processing units,
+3. we **generate** a structured answer with its high-level explanation.
 
-RI requires the invention of new software techniques for "opening the black box" of global abstractions into local interactions for distributed structure generation.
+## How?
+
+- **Plug in.** Wrap the models you already run in structured, auditable pipelines.
+- **Open up.** Replace opaque components with formally grounded ones, incrementally.
+- **Make it quantum.** The same architecture maps onto quantum hardware as it scales.
+
+## Who?
 
 - [People](people)
 - [Careers](careers)
