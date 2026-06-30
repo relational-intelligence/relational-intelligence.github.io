@@ -84,4 +84,4 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
   </div>
 </div>
 
-Interested in what we do? Contribute to our open source projects, [join us](careers) or contact `destiny@rel-int.ai`.
+Interested in what we do? Contribute to our open source projects, [join us](careers) or write to `contact@rel-int.ai`.
