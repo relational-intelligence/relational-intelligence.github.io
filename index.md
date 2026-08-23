@@ -20,7 +20,7 @@ Relational Intelligence builds compositional AI that is explainable by design, s
 - **Open up.** Replace opaque components with formally grounded ones, incrementally.
 - **Make it quantum.** The same architecture maps onto quantum hardware as it scales.
 
-Check out our [demo](bobcat.rel-int.ai)!
+Check out our [demo](https://bobcat.rel-int.ai)!
 
 ## Who?
 
