@@ -86,8 +86,10 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
     <span class="role">COO</span>
   </div>
   <div class="team-card">
-    <img src="pictures/daphne.jpg" alt="Daphne Wang">
-    <span class="name">Daphne Wang</span>
+    <a href="https://wangdaphne.github.io/">
+      <img src="pictures/daphne.jpg" alt="Daphne Wang">
+    </a>
+    <a href="https://wangdaphne.github.io/" class="name">Daphne Wang</a>
   </div>
 </div>
 
@@ -107,8 +109,10 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
     <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh" class="name">Mehrnoosh Sadrzadeh</a>
   </div>
   <div class="team-card">
-    <img src="pictures/amar.jpg" alt="Amar Hadzihasanovic">
-    <span class="name">Amar Hadzihasanovic</span>
+    <a href="https://ioc.ee/~amar/">
+      <img src="pictures/amar.jpg" alt="Amar Hadzihasanovic">
+    </a>
+    <a href="https://ioc.ee/~amar/" class="name">Amar Hadzihasanovic</a>
   </div>
 </div>
 
