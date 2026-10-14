@@ -26,15 +26,12 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
     width: 140px;
     text-align: center;
   }
-  .team-card img, .team-card .photo {
+  .team-card img {
     width: 120px;
     height: 120px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 0.6rem;
-  }
-  .team-card .photo {
-    background-color: #ccc;
   }
   .team-card .name {
     font-weight: bold;
@@ -46,7 +43,6 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
   }
   @media (prefers-color-scheme: dark) {
     .team-card .role { color: #aaa; }
-    .team-card .photo { background-color: #333; }
   }
 </style>
 
@@ -90,15 +86,30 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
     <span class="role">COO</span>
   </div>
   <div class="team-card">
-    <span class="photo"></span>
+    <img src="pictures/daphne.jpg" alt="Daphne Wang">
     <span class="name">Daphne Wang</span>
   </div>
 </div>
 
 ## Scientific advisors
 
-- [Samson Abramsky FRS](https://en.wikipedia.org/wiki/Samson_Abramsky)
-- [Mehrnoosh Sadrzadeh](https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh)
-- Amar Hadzihasanovic
+<div class="team-grid">
+  <div class="team-card">
+    <a href="https://en.wikipedia.org/wiki/Samson_Abramsky">
+      <img src="pictures/samson.png" alt="Samson Abramsky">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Samson_Abramsky" class="name">Samson Abramsky FRS</a>
+  </div>
+  <div class="team-card">
+    <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh">
+      <img src="pictures/mehrnoosh.jpg" alt="Mehrnoosh Sadrzadeh">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh" class="name">Mehrnoosh Sadrzadeh</a>
+  </div>
+  <div class="team-card">
+    <img src="pictures/amar.jpg" alt="Amar Hadzihasanovic">
+    <span class="name">Amar Hadzihasanovic</span>
+  </div>
+</div>
 
 Interested in what we do? Contribute to our open source projects, [join us](careers) or write to `contact@rel-int.ai`.
