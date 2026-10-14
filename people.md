@@ -90,6 +90,7 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
       <img src="pictures/daphne.jpg" alt="Daphne Wang">
     </a>
     <a href="https://wangdaphne.github.io/" class="name">Daphne Wang</a>
+    <span class="role">Research Scientist</span>
   </div>
 </div>
 
