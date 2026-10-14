@@ -85,7 +85,7 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
       <img src="pictures/destiny.jpg" alt="Destiny Chen">
     </a>
     <a href="https://www.linkedin.com/in/destiny-chen-manager" class="name">Destiny Chen</a>
-    <span class="role">Head of Operations</span>
+    <span class="role">COO</span>
   </div>
   <div class="team-card">
     <a href="https://wangdaphne.github.io/">
