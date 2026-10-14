@@ -55,13 +55,6 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
     <span class="role">CEO</span>
   </div>
   <div class="team-card">
-    <a href="https://www.linkedin.com/in/destiny-chen-manager">
-      <img src="pictures/destiny.jpg" alt="Destiny Chen">
-    </a>
-    <a href="https://www.linkedin.com/in/destiny-chen-manager" class="name">Destiny Chen</a>
-    <span class="role">COO</span>
-  </div>
-  <div class="team-card">
     <a href="https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en">
       <img src="pictures/giovanni.jpg" alt="Giovanni de Felice">
     </a>
@@ -75,12 +68,52 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
     <a href="http://alexis.toumi.xyz/" class="name">Alexis Toumi</a>
     <span class="role">CTO</span>
   </div>
+</div>
+
+<div class="team-grid">
   <div class="team-card">
     <a href="https://scholar.google.com/citations?user=fG9vZC4AAAAJ">
       <img src="pictures/tommaso.jpeg" alt="Tommaso Salvatori">
     </a>
     <a href="https://scholar.google.com/citations?user=fG9vZC4AAAAJ" class="name">Tommaso Salvatori</a>
     <span class="role">Head of ML</span>
+  </div>
+  <div class="team-card">
+    <a href="https://www.linkedin.com/in/destiny-chen-manager">
+      <img src="pictures/destiny.jpg" alt="Destiny Chen">
+    </a>
+    <a href="https://www.linkedin.com/in/destiny-chen-manager" class="name">Destiny Chen</a>
+    <span class="role">Head of Operations</span>
+  </div>
+  <div class="team-card">
+    <a href="https://wangdaphne.github.io/">
+      <img src="pictures/daphne.jpg" alt="Daphne Wang">
+    </a>
+    <a href="https://wangdaphne.github.io/" class="name">Daphne Wang</a>
+    <span class="role">Research Scientist</span>
+  </div>
+</div>
+
+## Scientific advisors
+
+<div class="team-grid">
+  <div class="team-card">
+    <a href="https://en.wikipedia.org/wiki/Samson_Abramsky">
+      <img src="pictures/samson.png" alt="Samson Abramsky">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Samson_Abramsky" class="name">Samson Abramsky FRS</a>
+  </div>
+  <div class="team-card">
+    <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh">
+      <img src="pictures/mehrnoosh.jpg" alt="Mehrnoosh Sadrzadeh">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh" class="name">Mehrnoosh Sadrzadeh</a>
+  </div>
+  <div class="team-card">
+    <a href="https://ioc.ee/~amar/">
+      <img src="pictures/amar.jpg" alt="Amar Hadzihasanovic">
+    </a>
+    <a href="https://ioc.ee/~amar/" class="name">Amar Hadzihasanovic</a>
   </div>
 </div>
 
