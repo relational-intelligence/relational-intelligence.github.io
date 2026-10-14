@@ -16,14 +16,15 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
   .team-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
-    margin: 1.5rem 0;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem 0;
   }
   .team-card {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 140px;
+    width: 220px;
     text-align: center;
   }
   .team-card img {
@@ -36,6 +37,7 @@ In the process we developed open source software: [lambeq](https://github.com/Qu
   .team-card .name {
     font-weight: bold;
     font-size: 0.95rem;
+    white-space: nowrap;
   }
   .team-card .role {
     font-size: 0.82rem;
