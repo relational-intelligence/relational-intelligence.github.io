@@ -117,7 +117,13 @@
     .d-plus { fill: var(--card-2); stroke: var(--diagram); stroke-width: 1.5; }
 
     /* People: a list of "![photo](...) **name** *role* bio" */
-    ul.people { row-gap: 2.5rem; }
+    ul.people { display: flex; flex-wrap: wrap; justify-content: center; row-gap: 2.5rem; }
+    ul.people li { flex: 0 0 100%; }
+    @media (max-width: 719px) { ul.people.halves li { flex-basis: calc((100% - 1rem) / 2); } }
+    @media (min-width: 720px) {
+      ul.people.cols-3 li { flex-basis: calc((100% - 3rem) / 3); }
+      ul.people.cols-4 li { flex-basis: calc((100% - 4.5rem) / 4); }
+    }
     ul.people li { text-align: center; color: var(--muted); }
     ul.people img { width: 112px; height: 112px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 0.8rem; background: var(--card-2); }
     ul.people.large img { width: 168px; height: 168px; }

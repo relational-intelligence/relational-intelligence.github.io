@@ -27,6 +27,7 @@ At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pion
 - ![Daphne Wang](/pictures/daphne.jpg) **[Daphne Wang](https://wangdaphne.github.io/)** *Member of Technical Staff* UCL PhD, previously at Quandela.
 - ![A radiolarian drawn by Ernst Haeckel, standing in for Joseph](/pictures/joseph.jpg) **Joseph** *Member of Technical Staff* Formal methods expert. DisCoPy and Scala proofs.
 - ![Alexandre Chalard](/pictures/alexandre.jpg) **Alexandre Chalard** *Member of Technical Staff* Full-stack AI engineer. Toulouse PhD, UCLA Neurology.
+- ![Matteo Forasassi](/pictures/matteo.jpg) **[Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ)** *Member of Technical Staff (part time)*
 {: .cols-4 .halves .people}
 
 ---
