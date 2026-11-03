@@ -26,7 +26,7 @@ Structured Language Models<br>for efficient and responsible AI
 
 ## Structured Language Models
 
-A Structured Language Model is built from the structure of its problem, instead of learning that structure from vast amounts of data. That makes it small, able to learn from few examples, and able to back every answer with a proof.
+SLM usually stands for *small* language model. Ours are small too, but by design. A Structured Language Model is both a **structured model of language**, whose shape follows the grammar of its input instead of being learned from vast data, and a **model of structured language**: the diagrams that scientists and engineers already draw. Because the structure comes first, the rest follows.
 
 - {% include diagrams/interpretable.svg %} **Interpretable** Every answer comes with a proof, as a diagram you can inspect.
 - {% include diagrams/small.svg %} **Small by design** A fraction of the compute of brute-force models, and it learns from scarce data.
@@ -55,15 +55,3 @@ Category theory unifies the diagrams every industry draws. We have developed it 
 
 Featured in [The Guardian](https://www.theguardian.com/science/2023/dec/16/physicist-bob-coecke-its-easier-to-convince-kids-than-adults-about-quantum-mechanics), [Forbes](https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/) and [New Scientist](https://www.newscientist.com/article/1955442-quantum-links-let-computers-understand-language/).
 {: .muted}
-
----
-
-## The team
-
-- ![Bob Coecke](/pictures/bob.jpg) **Bob Coecke** *CEO*
-- ![Giovanni de Felice](/pictures/giovanni.jpg) **Giovanni de Felice** *CSO*
-- ![Alexis Toumi](/pictures/alexis.jpg) **Alexis Toumi** *CTO*
-- ![Tommaso Salvatori](/pictures/tommaso.jpg) **Tommaso Salvatori** *Head of ML*
-{: .cols-4 .halves .people}
-
-[Meet the team](/people) · [Join us](/careers)
