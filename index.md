@@ -26,7 +26,7 @@ Structured Language Models<br>for efficient and responsible AI
 
 ## Structured Language Models
 
-SLM usually stands for *small* language model. Ours are small too, but by design. A Structured Language Model is both a **structured model of language**, whose shape follows the grammar of its input instead of being learned from vast data, and a **model of structured language**: the diagrams that scientists and engineers already draw. Because the structure comes first, the rest follows.
+**Structured Language Models** are a new generation of AI models, free from the twin drawbacks of **brute force**{: .warn} (that leads to wasted data and compute) and **black boxes**{: .warn} (that leads to unexplainable answers, in other terms, hallucinations).
 
 - {% include diagrams/interpretable.svg %} **Interpretable** Every answer comes with a proof, as a diagram you can inspect.
 - {% include diagrams/small.svg %} **Small by design** A fraction of the compute of brute-force models, and it learns from scarce data.
