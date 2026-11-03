@@ -17,7 +17,7 @@ At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pion
 - ![Giovanni de Felice](/pictures/giovanni.jpg) **[Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en)** *CSO* Co-creator of DisCoPy, quantum photonics specialist. Oxford PhD.
 - ![Alexis Toumi](/pictures/alexis.jpg) **[Alexis Toumi](http://alexis.toumi.xyz/)** *CTO* Creator of DisCoPy, applied category theorist and AI researcher. Oxford PhD.
 - ![Tommaso Salvatori](/pictures/tommaso.jpg) **[Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ)** *Head of ML* Neuroscience-inspired ML research at VERSES AI. Oxford PhD.
-{: .cols-2 .halves .people .large}
+{: .cols-2 .halves .people}
 
 ---
 
