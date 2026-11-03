@@ -1,0 +1,1 @@
+<svg viewBox="0 0 200 160" role="img" aria-label="A green and a red spider of the ZX-calculus" xmlns="http://www.w3.org/2000/svg"><path class="d-wire" d="M10 80 H190 M75 20 V80 M125 80 V140"/><circle class="d-green" cx="75" cy="80" r="16"/><circle class="d-red" cx="125" cy="80" r="16"/><text class="d-label" x="125" y="85" font-size="14" text-anchor="middle">π</text></svg>

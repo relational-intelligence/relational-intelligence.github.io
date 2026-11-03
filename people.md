@@ -1,122 +1,45 @@
 ---
 layout: default
-title: People
+title: People · Relational Intelligence
+description: The directors, team and scientific advisors of Relational Intelligence, who pioneered categorical quantum mechanics, the ZX-calculus, DisCoCat and quantum natural language processing.
 permalink: /people
 ---
 
 # People
 
-We have a 25 year track record in diagrammatic reasoning for foundations of physics, quantum computing, linguistics and cognitive science.
-Our [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) at the University of Oxford pioneered the field of [categorical quantum mechanics](https://en.wikipedia.org/wiki/Categorical_quantum_mechanics) (CQM), a high-level description of quantum protocols, and the [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus), a complete graphical language for qubits.
+At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pioneered [categorical quantum mechanics](https://en.wikipedia.org/wiki/Categorical_quantum_mechanics), the [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus), [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) and [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_natural_language_processing), and wrote [DisCoPy](https://discopy.org/) and [lambeq](https://github.com/Quantinuum/lambeq) along the way.
 
-Categorical distributional compositional ([DisCoCat](https://en.wikipedia.org/wiki/DisCoCat)) models are the application of CQM to linguistics, this led to our development of [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_natural_language_processing) (QNLP) where we performed the first NLP experiment on quantum hardware.
-In the process we developed open source software: [lambeq](https://github.com/Quantinuum/lambeq) for experimental QNLP and [DisCoPy](https://discopy.org/), the fundamental package for computing with [string diagrams](https://en.wikipedia.org/wiki/String_diagram) in Python.
+---
 
-<style>
-  .team-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 2rem 0;
-  }
-  .team-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 220px;
-    text-align: center;
-  }
-  .team-card img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 0.6rem;
-  }
-  .team-card .name {
-    font-weight: bold;
-    font-size: 0.95rem;
-    white-space: nowrap;
-  }
-  .team-card .role {
-    font-size: 0.82rem;
-    color: #666;
-  }
-  @media (prefers-color-scheme: dark) {
-    .team-card .role { color: #aaa; }
-  }
-</style>
+## Directors
 
-<div class="team-grid">
-  <div class="team-card">
-    <a href="https://en.wikipedia.org/wiki/Bob_Coecke">
-      <img src="pictures/bob.png" alt="Bob Coecke">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Bob_Coecke" class="name">Bob Coecke</a>
-    <span class="role">CEO</span>
-  </div>
-  <div class="team-card">
-    <a href="https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en">
-      <img src="pictures/giovanni.jpg" alt="Giovanni de Felice">
-    </a>
-    <a href="https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en" class="name">Giovanni de Felice</a>
-    <span class="role">CSO</span>
-  </div>
-  <div class="team-card">
-    <a href="http://alexis.toumi.xyz/">
-      <img src="pictures/alexis.jpeg" alt="Alexis Toumi">
-    </a>
-    <a href="http://alexis.toumi.xyz/" class="name">Alexis Toumi</a>
-    <span class="role">CTO</span>
-  </div>
-</div>
+- ![Bob Coecke](/pictures/bob.jpg) **[Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke)** *CEO* Pioneer of CQM, ZX, DisCoCat and QNLP. 20 years at Oxford, former Chief Scientist at Quantinuum.
+- ![Giovanni de Felice](/pictures/giovanni.jpg) **[Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en)** *CSO* Co-creator of DisCoPy, quantum photonics specialist. Oxford PhD.
+- ![Alexis Toumi](/pictures/alexis.jpg) **[Alexis Toumi](http://alexis.toumi.xyz/)** *CTO* Creator of DisCoPy, applied category theorist and AI researcher. Oxford PhD.
+- ![Tommaso Salvatori](/pictures/tommaso.jpg) **[Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ)** *Head of ML* Neuroscience-inspired ML research at VERSES AI. Oxford PhD.
+{: .cols-2 .halves .people .large}
 
-<div class="team-grid">
-  <div class="team-card">
-    <a href="https://scholar.google.com/citations?user=fG9vZC4AAAAJ">
-      <img src="pictures/tommaso.jpeg" alt="Tommaso Salvatori">
-    </a>
-    <a href="https://scholar.google.com/citations?user=fG9vZC4AAAAJ" class="name">Tommaso Salvatori</a>
-    <span class="role">Head of ML</span>
-  </div>
-  <div class="team-card">
-    <a href="https://www.linkedin.com/in/destiny-chen-manager">
-      <img src="pictures/destiny.jpg" alt="Destiny Chen">
-    </a>
-    <a href="https://www.linkedin.com/in/destiny-chen-manager" class="name">Destiny Chen</a>
-    <span class="role">COO</span>
-  </div>
-  <div class="team-card">
-    <a href="https://wangdaphne.github.io/">
-      <img src="pictures/daphne.jpg" alt="Daphne Wang">
-    </a>
-    <a href="https://wangdaphne.github.io/" class="name">Daphne Wang</a>
-    <span class="role">Research Scientist</span>
-  </div>
-</div>
+---
+
+## Team
+
+- ![Destiny Chen](/pictures/destiny.jpg) **[Destiny Chen](https://www.linkedin.com/in/destiny-chen-manager)** *Head of Operations* 15+ years running operations with Bob, in academia and industry.
+- ![Daphne Wang](/pictures/daphne.jpg) **[Daphne Wang](https://wangdaphne.github.io/)** *Member of Technical Staff* UCL PhD, previously at Quandela.
+- ![A radiolarian drawn by Ernst Haeckel, standing in for Joseph](/pictures/joseph.jpg) **Joseph** *Member of Technical Staff* Formal methods expert. EPFL graduate.
+- ![Alexandre Chalard](/pictures/alexandre.jpg) **Alexandre Chalard** *Member of Technical Staff* Full-stack AI engineer. Toulouse PhD, UCLA Neurology.
+- ![Matteo Forasassi](/pictures/matteo.jpg) **[Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ)** *Member of Technical Staff (part time)* TU Wien PhD candidate, Politecnico di Milano graduate.
+{: .cols-2 .halves .people}
+
+---
 
 ## Scientific advisors
 
-<div class="team-grid">
-  <div class="team-card">
-    <a href="https://en.wikipedia.org/wiki/Samson_Abramsky">
-      <img src="pictures/samson.png" alt="Samson Abramsky">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Samson_Abramsky" class="name">Samson Abramsky FRS</a>
-  </div>
-  <div class="team-card">
-    <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh">
-      <img src="pictures/mehrnoosh.jpg" alt="Mehrnoosh Sadrzadeh">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh" class="name">Mehrnoosh Sadrzadeh</a>
-  </div>
-  <div class="team-card">
-    <a href="https://ioc.ee/~amar/">
-      <img src="pictures/amar.jpg" alt="Amar Hadzihasanovic">
-    </a>
-    <a href="https://ioc.ee/~amar/" class="name">Amar Hadzihasanovic</a>
-  </div>
-</div>
+- ![Samson Abramsky](/pictures/samson.jpg) **[Samson Abramsky FRS](https://en.wikipedia.org/wiki/Samson_Abramsky)** Co-inventor of CQM. Emeritus Strachey Professor at Oxford, professor at UCL.
+- ![Mehrnoosh Sadrzadeh](/pictures/mehrnoosh.jpg) **[Mehrnoosh Sadrzadeh](https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh)** Co-inventor of DisCoCat. Professor at UCL.
+- ![Amar Hadzihasanovic](/pictures/amar.jpg) **[Amar Hadzihasanovic](https://ioc.ee/~amar/)** Proved the ZX-calculus complete. Assistant professor at TalTech.
+{: .cols-2 .halves .people}
 
-Interested in what we do? Contribute to our open source projects, [join us](careers) or write to `contact@rel-int.ai`.
+---
+
+Combined team: 150+ PhDs supervised, 500+ papers and 45K citations.
+{: .center .tagline}

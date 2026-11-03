@@ -1,2 +1,5 @@
 title: Relational Intelligence
-logo: pictures/logo-white.png
+description: Structured Language Models for efficient and responsible AI.
+url: https://rel-int.ai
+exclude:
+  - README.md
