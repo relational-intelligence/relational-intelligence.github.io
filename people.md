@@ -17,7 +17,7 @@ At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pion
 - ![Giovanni de Felice](/pictures/giovanni.jpg) **[Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en)** *CSO* Co-creator of DisCoPy, quantum photonics specialist. Oxford PhD.
 - ![Alexis Toumi](/pictures/alexis.jpg) **[Alexis Toumi](http://alexis.toumi.xyz/)** *CTO* Creator of DisCoPy, applied category theorist and AI researcher. Oxford PhD.
 - ![Tommaso Salvatori](/pictures/tommaso.jpg) **[Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ)** *Head of ML* Neuroscience-inspired ML research at VERSES AI. Oxford PhD.
-{: .cols-2 .halves .people .large}
+{: .cols-2 .halves .people}
 
 ---
 
@@ -26,7 +26,7 @@ At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pion
 - ![Destiny Chen](/pictures/destiny.jpg) **[Destiny Chen](https://www.linkedin.com/in/destiny-chen-manager)** *Head of Operations* 15+ years running operations with Bob, in academia and industry.
 - ![Daphne Wang](/pictures/daphne.jpg) **[Daphne Wang](https://wangdaphne.github.io/)** *Member of Technical Staff* UCL PhD, previously at Quandela.
 - ![A radiolarian drawn by Ernst Haeckel, standing in for Joseph](/pictures/joseph.jpg) **Joseph** *Member of Technical Staff* Formal methods expert. EPFL graduate.
-- ![Alexandre Chalard](/pictures/alexandre.jpg) **Alexandre Chalard** *Member of Technical Staff* Full-stack AI engineer. Toulouse PhD, UCLA Neurology.
+- ![Alexandre Chalard](/pictures/alexandre.jpg) **[Alexandre Chalard](https://scholar.google.com/citations?user=BMSS-tcAAAAJ)** *Member of Technical Staff* Full-stack AI engineer. Toulouse PhD, UCLA Neurology.
 - ![Matteo Forasassi](/pictures/matteo.jpg) **[Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ)** *Member of Technical Staff (part time)* TU Wien PhD candidate, Politecnico di Milano graduate.
 {: .cols-2 .halves .people}
 
