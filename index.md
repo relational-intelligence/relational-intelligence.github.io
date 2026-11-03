@@ -33,8 +33,8 @@ Structured Language Models<br>for efficient and responsible AI
 - {% include diagrams/hardware.svg %} **Hardware-agnostic** The same model runs on GPUs today, and on photonic and quantum hardware next.
 {: .cols-3}
 
-- **16K parameters** solve 99% of extreme Sudoku after ten minutes on one GPU, seven orders of magnitude smaller than frontier LLMs. [arXiv:2610.18649](https://arxiv.org/abs/2610.18649)
-- **1,000+ GitHub stars** for [DisCoPy](https://github.com/discopy/discopy) and [lambeq](https://github.com/Quantinuum/lambeq), the open-source software our field runs on.
+- **16K parameters** solve 99% of extreme Sudoku after ten minutes on one GPU, seven orders of magnitude smaller than frontier LLMs which fail at the same problem. [arXiv:2610.18649](https://arxiv.org/abs/2610.18649)
+- **1,000+ GitHub stars** for [DisCoPy](https://github.com/discopy/discopy), [lambeq](https://github.com/Quantinuum/lambeq) and [optyx](https://github.com/quantinuum-dev/optyx), the open-source software our field runs on.
 {: .cols-2 .cards}
 
 ---
