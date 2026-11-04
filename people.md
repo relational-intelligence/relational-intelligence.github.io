@@ -7,16 +7,16 @@ permalink: /people
 
 # People
 
-At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pioneered [categorical quantum mechanics](https://en.wikipedia.org/wiki/Categorical_quantum_mechanics), the [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus), [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) and [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_natural_language_processing), and wrote [DisCoPy](https://discopy.org/) and [lambeq](https://github.com/Quantinuum/lambeq) along the way.
+At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pioneered [categorical quantum mechanics](https://en.wikipedia.org/wiki/Categorical_quantum_mechanics), the [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus), [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) and [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_natural_language_processing). We also wrote the open-source software the field runs on: [DisCoPy](https://discopy.org/), [lambeq](https://github.com/Quantinuum/lambeq) and [optyx](https://github.com/quantinuum-dev/optyx) (1,000+ stars on GitHub).
 
 ---
 
 ## Directors
 
 - ![Bob Coecke](/pictures/bob.jpg) **[Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke)** *CEO* Pioneer of CQM, ZX, DisCoCat and QNLP. 20 years at Oxford, former Chief Scientist at Quantinuum.
-- ![Giovanni de Felice](/pictures/giovanni.jpg) **[Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en)** *CSO* Co-creator of DisCoPy, quantum photonics specialist. Oxford PhD.
+- ![Giovanni de Felice](/pictures/giovanni.jpg) **[Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en)** *CSO* Quantum photonics expert previously at Quantinuum, co-creator of DisCoPy. Oxford PhD.
 - ![Alexis Toumi](/pictures/alexis.jpg) **[Alexis Toumi](http://alexis.toumi.xyz/)** *CTO* Creator of DisCoPy, applied category theorist and AI researcher. Oxford PhD.
-- ![Tommaso Salvatori](/pictures/tommaso.jpg) **[Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ)** *Head of ML* Neuroscience-inspired ML research at VERSES AI. Oxford PhD.
+- ![Tommaso Salvatori](/pictures/tommaso.jpg) **[Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ)** *Head of ML* Neuroscience-inspired ML research at TU Wien and VERSES. Oxford PhD.
 {: .cols-2 .halves .people}
 
 ---
@@ -24,9 +24,9 @@ At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pion
 ## Team
 
 - ![Destiny Chen](/pictures/destiny.jpg) **[Destiny Chen](https://www.linkedin.com/in/destiny-chen-manager)** *Head of Operations* 15+ years running operations with Bob, in academia and industry.
-- ![Daphne Wang](/pictures/daphne.jpg) **[Daphne Wang](https://wangdaphne.github.io/)** *Member of Technical Staff* UCL PhD, previously at Quandela.
-- ![A radiolarian drawn by Ernst Haeckel, standing in for Joseph](/pictures/joseph.jpg) **Joseph** *Member of Technical Staff* Formal methods expert. EPFL graduate.
-- ![Alexandre Chalard](/pictures/alexandre.jpg) **[Alexandre Chalard](https://scholar.google.com/citations?user=BMSS-tcAAAAJ)** *Member of Technical Staff* Full-stack AI engineer. Toulouse PhD, UCLA Neurology.
+- ![Daphne Wang](/pictures/daphne.jpg) **[Daphne Wang](https://wangdaphne.github.io/)** *Member of Technical Staff* Quantum computing and formal linguistics. UCL PhD, Oxford graduate, previously at Quandela.
+- ![A radiolarian drawn by Ernst Haeckel, standing in for Joseph](/pictures/joseph.jpg) **Joseph** *Member of Technical Staff* Formal methods. EPFL graduate.
+- ![Alexandre Chalard](/pictures/alexandre.jpg) **[Alexandre Chalard](https://scholar.google.com/citations?user=BMSS-tcAAAAJ)** *Member of Technical Staff* Full-stack AI. Toulouse PhD, UCLA Neurology.
 - ![Matteo Forasassi](/pictures/matteo.jpg) **[Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ)** *Member of Technical Staff (part time)* TU Wien PhD candidate, Politecnico di Milano graduate.
 {: .cols-2 .halves .people}
 
