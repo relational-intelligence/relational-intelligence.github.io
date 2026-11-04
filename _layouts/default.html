@@ -99,7 +99,8 @@
     /* Diagrams */
     ul[class*="cols-"] li > svg { display: block; width: 100%; height: auto; max-height: 180px; margin-bottom: 1rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 1rem; }
     ul.timeline li { color: var(--muted); }
-    ul.timeline li > svg { background: none; border: 0; padding: 0; }
+    ul.timeline li > svg, ul.cards li > svg { background: none; border: 0; padding: 0; }
+    ul.cards li > svg { height: 160px; }
     ul.timeline li a { display: block; font-weight: 700; }
     .d-wire, .d-path, .d-lens, .d-faint { fill: none; stroke-linecap: round; }
     .d-wire { stroke: var(--diagram); stroke-width: 2; }
