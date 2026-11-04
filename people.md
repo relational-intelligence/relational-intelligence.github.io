@@ -7,7 +7,7 @@ permalink: /people
 
 # People
 
-At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pioneered [categorical quantum mechanics](https://en.wikipedia.org/wiki/Categorical_quantum_mechanics), the [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus), [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) and [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_natural_language_processing), and wrote [DisCoPy](https://discopy.org/) and [lambeq](https://github.com/Quantinuum/lambeq) along the way.
+At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pioneered [categorical quantum mechanics](https://en.wikipedia.org/wiki/Categorical_quantum_mechanics), the [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus), [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) and [quantum natural language processing](https://en.wikipedia.org/wiki/Quantum_natural_language_processing). We also wrote the open-source software the field runs on: [DisCoPy](https://discopy.org/), [lambeq](https://github.com/Quantinuum/lambeq) and [optyx](https://github.com/quantinuum-dev/optyx) (1,000+ stars on GitHub).
 
 ---
 
