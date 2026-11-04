@@ -12,11 +12,11 @@ description: Structured Language Models for efficient and responsible AI. Interp
 <div markdown="1">
 # Relational Intelligence
 
-Structured Language Models<br>for efficient and responsible AI
+Structured Language Models<br>for efficient and explainable AI
 {: .tagline}
 
-- Efficiency
-- Safety
+- Efficient
+- Safe
 - Quantum-ready
 {: .pills}
 </div>
